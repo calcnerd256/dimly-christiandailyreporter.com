@@ -8,3 +8,5 @@ The script expects to be run from cron.  I'm running it hourly at home.
 If any of this is incomprehensible, ask.
 You can send me a pull request, which I will likely reject, or you can e-mail me.
 The original author of this script can be reached at calcnerd256+dimlysupport@gmail.com
+
+The overarching project is called "Dimly", because it attempts to mirror things.
