@@ -1,4 +1,4 @@
-This README is plaintext because I don't like MarkDown.
+This README is plaintext because I don't like Markdown.
 
 This repository hosts the source code and generated output of a spider.
 A spider is a robot that scrapes the Web.
