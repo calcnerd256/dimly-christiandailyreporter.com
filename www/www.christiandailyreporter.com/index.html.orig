@@ -1,0 +1,235 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="https://www.christiandailyreporter.com/images/cdrfavicon.png">
+<title>CHRISTIAN DAILY REPORTER</title>
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    color:000000
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    text-decoration:underline;
+}
+
+.note {
+    padding: 10px;
+    text-align: center;
+}
+
+.cdr {
+    padding: 10px;
+    font-size: 120%;
+    text-align: center;
+}
+
+.top {
+    text-align: center;
+    padding: 10px;
+    font-size: 140%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.bottom {
+    text-align: center;
+    padding: 10px;
+    font-size: 70%;
+}
+
+hr {
+    border: none;
+    border-top: 1px dotted black;
+  }
+  
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+<div class="cdr">
+<h1><a href="https://www.christiandailyreporter.com/">CHRISTIAN DAILY REPORTER</a></h1>
+<hr>
+<hr>
+</div>
+
+<!------- TOP ------->
+
+<div class="top">
+
+<p><img src="https://i.imgur.com/4akBE4A.jpg" width="300"></p>
+
+<p><a href="http://www.kvoa.com/story/37626184/planned-parenthood-to-target-8-states-spend-20-million-as-part-of-midterm-battle-plan" target="_blank"><em>Planned Parenthood set to spend $20M+ to elect Dems in midterms</em></a></p>
+
+</div>
+
+<!------- LEFT COLUMN ------->
+
+<div class="row">
+<div class="column">
+
+<hr>
+
+<p><a href="https://www.cbsnews.com/news/florida-senate-passes-immediately-reverses-ar-15-ban-2018-03-03/" target="_blank">Confusion in the Florida Senate as AR-15 ban fails to pass</a></p>
+
+<hr>
+
+<p><a href="https://www.axios.com/the-four-corruption-scandals-circling-benjamin-netanyahu-1520017677-3ee14182-78ce-4906-abe1-57878185532e.html" target="_blank">The four corruption scandals circling Benjamin Netanyahu</a></p>
+
+<hr>
+
+<p><a href="https://www.christianpost.com/news/washington-state-to-monetize-wombs-legalize-baby-selling-redefine-parent-219933/" target="_blank"><em>WA House Passes Bill to 'Monetize Wombs,' Legalize 'Baby Selling,' Redefine 'Parent'</em></a></p>
+
+<p><a href="https://www.lifesitenews.com/news/iowa-senate-passes-bill-banning-abortions-on-babies-with-beating-hearts" target="_blank">IA Senate passes bill banning abortions after heartbeat detected</a></p>
+
+<p><a href="http://www.lifenews.com/2018/03/01/florida-house-passes-bill-to-ban-dismemberment-abortions-tearing-off-babies-limbs/" target="_blank">FL House Passes Bill to Ban Dismemberment Abortions</a></p>
+
+<p><a href="https://www.nationalreview.com/blog/corner/republicans-nra-money-critiques-ignore-planned-parenthood/" target="_blank">NRA Critics Ignore Political Influence of Planned Parenthood</a></p>
+
+<p><a href="http://www.wbal.com/article/297718/124/fatal-shooting-of-woman-unborn-child-ruled-double-homicide" target="_blank">Fatal Shooting Of Woman, Unborn Child Ruled Double Homicide</a></p>
+
+<hr>
+
+<p><a href="https://www.lifesitenews.com/news/mike-huckabees-biblical-marriage-stance-costs-him-post-on-country-music-ass" target="_blank">‘Hate wins’: Mike Huckabee forced off Country Music board after LGBTETC Mafia attacks</a></p>
+
+<hr>
+
+<p><a href="https://www1.cbn.com/cbnnews/2018/march/sweet-cakes-by-melissa-nbsp-owners-reach-oregon-supreme-court-with-nbsp-religious-liberty-nbsp-appeal" target="_blank">'Sweet Cakes' Owners Reach OR Supreme Court with Religious Liberty Appeal</a></p>
+
+<hr>
+
+<p><a href="https://www.christianpost.com/news/12-christians-murdered-nigeria-trying-to-protect-girls-forced-islamic-conversions-219887/" target="_blank">12 Christians Murdered in Nigeria for Trying to Protect Girls From Forced Islamic Conversions</a></p>
+
+<p><a href="http://www.foxnews.com/world/2018/03/02/indonesian-christians-flogged-outside-mosque-for-violating-sharia-law.html" target="_blank">Indonesian Christians flogged outside mosque for violating sharia</a></p>
+
+<hr>
+
+<p><img src="https://i.imgur.com/W0X6M9V.jpg" width="150"></p>
+
+<p><a href="https://widerimage.reuters.com/story/a-journey-on-a-caravan-of-misery" target="_blank">The Hell of Socialist Venezuela</a></p>
+
+<hr>
+
+<p><a href="https://www.bostonglobe.com/metro/2018/02/22/harvard-places-christian-club-probation/wMpdkbJ0mZMoPkKw2sp7MM/story.html" target="_blank">Harvard suspends Christian club for asking Bible course leader to step down after learning of gay relationship</a></p>
+
+<p><img src="https://i.imgur.com/WIZh9f9.jpg" width="150"></p>
+
+<p><a href="https://www.dailywire.com/news/27633/shapiro-students-100-police-officers-are-outside-james-barrett" target="_blank">Shapiro To Students: 100 Police Outside So I Can Say Conservative Things</a></p>
+
+<p><a href="http://www.washingtonexaminer.com/uconn-to-host-linda-sarsour-for-womens-herstory-month-event/article/2650605" target="_blank"><em>Month after supressing Shapiro, UConn to host Linda Sarsour!</em></a></p>
+
+<hr>
+
+<p><a href="https://www.reuters.com/article/us-britain-security/teacher-tried-to-create-army-of-children-to-launch-terror-attacks-in-london-idUSKCN1GE2CU" target="_blank">Muslim teacher tried to create 'army of children' to launch terror attacks in London</a></p>
+
+<hr>
+
+</div>
+  
+<!------- RIGHT COLUMN ------->
+
+<div class="column">
+
+<hr>
+
+<p><a href="https://www.cnn.com/2018/03/03/politics/trump-maralago-remarks/index.html" target="_blank"><em>Trump jokes about China's Xi consolidating power: 'I think it's great. Maybe we'll have to give that a shot some day.'</em></a> 😐</p>
+
+<hr>
+
+<p><a href="https://www.washingtonpost.com/blogs/erik-wemple/wp/2018/03/02/facebook-admits-mistake-in-flagging-satire-about-cnn-spinning-the-news-with-a-washing-machine/" target="_blank"><em>The Babylon Bee vs. Facebook</em></a></p>
+
+<p><img src="https://i.imgur.com/Cq08dOk.jpg" width="150"></p>
+
+<p><a href="https://pjmedia.com/faith/facebook-threatens-babylon-bee-cnn-satire-report-snopes-fact-checkers/" target="_blank">Facebook threatens after Snopes 'fact-checks' obvious satire about CNN</a></p>
+
+<p><a href="http://dailycaller.com/2018/03/02/facebook-snopes-fact-checks-demonitize-christian-satire/" target="_blank">Admits 'mistake' after widespread pushback...</a></p>
+
+<p><a href="http://thefederalist.com/2018/03/02/facebook-apologizes-for-threatening-to-censor-the-babylon-bee/" target="_blank">'Serious, frightening power over information'</a></p>
+
+<hr>
+
+<p><a href="http://thehill.com/homenews/senate/376515-jeff-flake-there-will-be-a-republican-challenger-to-trump-in-2020" target="_blank">Flake: There will be a GOP challenger to Trump in 2020</a></p>
+
+<p><a href="http://thehill.com/business-a-lobbying/business-a-lobbying/376517-corporate-america-throws-weight-behind-gun-controls" target="_blank">Private sector pushes gun control</a></p>
+
+<p><a href="https://www.theguardian.com/us-news/2018/mar/03/george-p-bush-texas-vote-is-this-the-last-of-a-political-dynasty" target="_blank">The End of the Bush Dynasty?</a></p>
+
+<hr>
+
+<p><a href="http://julieroys.com/moody-bible-institute-takes-bold-step-affirm-biblical-inerrancy/" target="_blank">Moody adopts Chicago Statement on Biblical Inerrancy; faculty required to affirm</a></p>
+
+<hr>
+
+<p><img src="https://i.imgur.com/RJPkKwQ.jpg" width="150"></p>
+
+<p><a href="https://www.standard.co.uk/news/world/china-bans-the-letter-n-and-george-orwells-animal-farm-as-president-xi-jinping-extends-grip-on-power-a3777686.html" target="_blank"><em>China bans 'Animal Farm,' '1984' as President Xi Jinping extends power</em></a></p>
+
+<hr>
+
+<p><a href="https://www.dailywire.com/news/27688/shocking-south-african-parliament-votes-seize-land-hank-berrien" target="_blank">South African Parliament Votes To Seize Land Owned By All White Farmers</a></p>
+
+<p><a href="https://www.washingtontimes.com/news/2018/mar/1/university-texas-students-launch-no-whites-allowed/" target="_blank">University of Texas students launch ‘No Whites Allowed’ magazine</a></p>
+
+<hr>
+
+<p><a href="https://www.theverge.com/2018/3/1/17068480/amazon-photo-on-delivery-new-feature-front-porch" target="_blank">Amazon is taking photos of your front door...</a></p>
+
+<p><a href="https://www.nytimes.com/2018/03/02/technology/china-technology-censorship-borders-expansion.html" target="_blank">NYT: China presses internet censorship efforts across the globe</a></p>
+
+<p><a href="https://www.dailywire.com/news/27780/twitter-prepares-political-crackdown-citing-need-ben-shapiro" target="_blank">Twitter Prepares Political Crackdown, Citing Need To 'Encourage More Healthy Debate'</a></p>
+
+<p><a href="https://www.bloomberg.com/news/articles/2018-03-01/google-sued-by-ex-recruiter-over-alleged-anti-white-asian-bias" target="_blank">Google Sued by Ex-Recruiter Alleging Anti-White, Asian Bias</a></p>
+
+<p><a href="https://www.lifesitenews.com/news/iphone-users-quietly-find-easter-back-on-their-calendars-after-christian-ba" target="_blank">iPhone users quietly find ‘Easter’ back on calendar after Christian backlash</a></p>
+
+<p><a href="https://www.theverge.com/2018/2/27/17057356/google-eu-url-removal-requests-right-to-be-forgotten-laws-europe" target="_blank">Google has received 2.4 million URL removal requests under EU ‘right to be forgotten’ laws</a></p>
+
+<p><a href="https://www.bloomberg.com/news/articles/2018-03-01/remove-terror-content-in-1-hour-or-else-eu-warns-tech-giants" target="_blank">EU Warns Tech Giants to Remove Terror Content in 1 Hour -- or Else</a></p>
+
+<hr>
+
+</div>
+</div>
+
+<div class="bottom">
+
+<p>© 2018 CHRISTIAN DAILY REPORTER | <a href="mailto:cdr@christiandailyreporter.com">Contact</a> | <a href="https://www.christiandailyreporter.com/manifesto.html">Manifesto</a></p>
+
+<p><a href="mailto:cdr@christiandailyreporter.com">Send us a news tip</a> 💡</p>
+
+</div>
+</body>
+</html>
+
+<! ACCOUNTABLE TO GOD AND GOD ALONE. S.D.G. >
+
+
