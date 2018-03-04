@@ -1,5 +1,3 @@
-touch index.html
-rm index.html
-wget https://www.christiandailyreporter.com/
+wget https://www.christiandailyreporter.com/ -O index.html
 git add index.html
 git commit -m "fetched at $(date)"
