@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /feed-times*
-
-User-agent: Twitterbot
-Crawl-delay: 600
-
-User-agent: Yahoo! Slurp
-Crawl-delay: 600
