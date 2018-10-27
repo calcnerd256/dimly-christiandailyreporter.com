@@ -53,10 +53,26 @@ a:hover {
     
 }
 
+.mobile {
+	padding: 10px;
+}
+
 .row:after {
     content: "";
     display: table;
     clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .mobile {
+        display: none;
+    }
 }
 
 .bottom {
@@ -71,11 +87,18 @@ hr {
   }
   
 </style>
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
 
 <body>
+
+<div class="mobile">
+<center>
+**Howdy, mobile CDR reader. As you can see below, we're testing a one-column layout (on mobile only). Wanna help? Give it a whirl and then <a href="mailto:adam@christiandailyreporter.com" target="_blank"><u>email me</u></a> to let me know what you think. One column or two when you visit CDR on your phone?**
+</center>
+</div>
 
 <div class="cdr">
 <h1><a href="https://www.christiandailyreporter.com/">CHRISTIAN DAILY REPORTER</a></h1>
@@ -147,6 +170,16 @@ hr {
 <p><a href="https://www.thegospelcoalition.org/article/the-faqs-terrorists-vow-to-keep-christian-schoolgirl-a-slave-for-live/" target="_blank">The FAQs: Terrorists Vow to Keep Leah Sharibu a ‘Slave for Life’</a></p>
 
 <hr>
+
+</div>
+
+<!------- MOBILE ONLY ------->
+
+<div class="mobile">
+
+<p><img src="https://www.christiandailyreporter.com/images/logo700.jpg" width="150"></p>
+
+<a href="https://www.patreon.com/Adam4d" target="_blank"><em>100% reader-funded: Support CDR!</em></a>
 
 </div>
   
