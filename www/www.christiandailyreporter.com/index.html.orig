@@ -83,7 +83,7 @@ a:hover {
 
 .responsive {
     width: 100%;
-    max-width: 400px;
+    max-width: 350px;
     height: auto;
 }
 
@@ -116,9 +116,11 @@ hr {
 
 <div class="top">
 
-<p><img src="https://www.bing.com/th?id=OIP.P1cN2E4jaowKcE_AqIVeYAHaDt&w=300&h=150&c=7&o=5&pid=1.7" class="responsive"></p>
+<p><img src="https://www.bing.com/th?id=OIP.UCIJP8B712zNKdHjGHXf6wHaE7&w=300&h=198&c=7&o=5&pid=1.7" class="responsive"></p>
 
-<p><a href="http://www.dennyburk.com/why-the-equality-act-is-a-disaster-for-religious-liberty-and-why-we-may-be-facing-the-disaster-very-soon/" target="_blank"><b>'EQUALITY' ACT</b></a></p>
+<p><a href="https://www.liveaction.org/taxpayer-funding-of-planned-parenthood-frees-up-money-to-campaign-against-pro-life-candidates-lobby-for-taxpayer-funded-abortions/" target="_blank"><b>Planned Parenthood's Political Money Laundering Scheme</b></a></p>
+
+<p><a href="https://www.christiandailyreporter.com/ppcycle.html" target="_blank"><b><em>Round and Round We Go!</em></b></a></p>
 
 </div>
 
@@ -134,6 +136,8 @@ hr {
 <hr>
 
 <p><a href="https://www.axios.com/trump-birthright-citizenship-executive-order-0cf4285a-16c6-48f2-a933-bd71fd72ea82.html" target="_blank"><b>Trump says he is going to terminate birthright citizenship</b></a></p>
+
+<p><a href="https://thehill.com/blogs/floor-action/senate/413832-graham-to-introduce-legislation-ending-birthright-citizenship" target="_blank">Graham to introduce legislation</a></p>
 
 <p><a href="https://www.foxnews.com/politics/5000-troops-deploying-to-us-mexico-border-in-response-to-migrant-caravan" target="_blank">Pentagon sending 5,200 troops to US-Mexico border</a></p>
 
@@ -188,6 +192,10 @@ hr {
 <!------- RIGHT COLUMN ------->
 
 <div class="column">
+
+<hr>
+
+<p><a href="http://www.dennyburk.com/why-the-equality-act-is-a-disaster-for-religious-liberty-and-why-we-may-be-facing-the-disaster-very-soon/" target="_blank">Why the 'Equality Act' is a disaster for religious liberty, and why we may be facing it very soon...</a></p>
 
 <hr>
 
