@@ -46,6 +46,12 @@ a:hover {
     font-size: 150%;
 }
 
+.extra {
+    text-align: center;
+    padding: 10px;
+    font-size: 130%;
+}
+
 .column {
     float: left;
     width: 50%;
@@ -105,7 +111,15 @@ mark {
 
 <body>
 
+<div class="extra">
+
+<br><a href="https://www.christiandailyreporter.com/cdrticle-economy-neighbor.html" target="_blank"><b>CDRticle: A Booming Economy and Loving Your Neighbor</b></a>
+
+</div>
+
 <div class="cdr">
+<hr>
+<hr>
 <h1><a href="https://www.christiandailyreporter.com/">CHRISTIAN DAILY REPORTER</a></h1>
 <hr>
 <hr>
@@ -119,7 +133,7 @@ mark {
 
 <p><a href="https://apnews.com/26bb3f6134fa433bbe8f2cca1dad718e" target="_blank"><b><em>Widespread Islamist Protests Delay Asia Bibi's Release</em></b></a></p>
 
-<p><a href="https://www.premier.org.uk/News/World/Growing-concern-for-Christians-in-Pakistan-following-Asia-Bibi-s-acquittal" target="_blank"><b><em>Growing Concern for Christians in Pakistan; 'Situation Getting Worse'</em></b></a></p>
+<p><a href="https://www.premier.org.uk/News/World/Thousands-demand-public-hanging-of-Asia-Bibi-as-judges-who-acquitted-her-face-death-threats" target="_blank"><b><em>Thousands Take to the Streets, Demand Public Hanging</em></b></a></p>
 
 </div>
 
@@ -212,6 +226,10 @@ mark {
 
 <hr>
 
+<p><img src="https://www.bing.com/th?id=OIP.dMGqZvSp3f5WmOJUuzCehQHaFK&w=299&h=208&c=7&o=5&pid=1.7" width="200"></p>
+
+<p><a href="https://www.premier.org.uk/News/World/7-Christians-killed-as-gunmen-attack-pilgrims-bus-on-way-to-monastery-in-Egypt" target="_blank">7+ Christians killed as gunmen attack pilgrims' bus on way to monastery in Egypt</a></p>
+
 <p><a href="https://morningstarnews.org/2018/11/oubreak-of-violence-against-christians-in-assam-india-sparks-concern/" target="_blank">Outbreak of Violence against Christians in Assam, India Sparks Concern...</a></p>
 
 <p><a href="https://www.foxnews.com/world/american-missionary-shot-and-killed-in-targeted-attack-weeks-after-moving-family-to-cameroon" target="_blank">American missionary shot and killed in ‘targeted’ attack weeks after moving family to Cameroon</a></p>
@@ -223,8 +241,6 @@ mark {
 <p><a href="https://apnews.com/604b14d73268410b96c9f7bf948c1de1" target="_blank">Catholic diocese covered up priest’s abuse of 50 boys for decades</a></p>
 
 <hr>
-
-<p><img src="https://www.bing.com/th?id=OIP.6unVSt5UCHzQzZ2gfA9pRAHaDt&w=258&h=150&c=7&o=5&dpr=2&pid=1.7" width="200"></p>
 
 <p><a href="https://www.thewrap.com/don-lemon-the-biggest-terror-threat-in-this-country-is-white-men/" target="_blank">Don Lemon: 'We have to stop demonizing people and realize the biggest terror threat in this country is white men'</a></p>
 
