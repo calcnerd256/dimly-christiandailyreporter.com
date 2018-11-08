@@ -89,7 +89,7 @@ a:hover {
 
 .responsive {
     width: 100%;
-    max-width: 350px;
+    max-width: 400px;
     height: auto;
 }
 
@@ -111,7 +111,20 @@ mark {
 
 <body>
 
+<div class="extra">
+
+<p><audio controls>
+  <source src="http://christiandailyreporter.com/cdrtalk/3566.mp3">
+Your browser does not support the audio element.
+</audio></p>
+
+<a href="https://www.christiandailyreporter.com/cdrtalk7.html" target="_blank"><b>CDR Talk #7: 35 Going on 66</b></a>
+
+</div>
+
 <div class="cdr">
+<hr>
+<hr>
 <h1><a href="https://www.christiandailyreporter.com/">CHRISTIAN DAILY REPORTER</a></h1>
 <hr>
 <hr>
@@ -120,6 +133,8 @@ mark {
 <!------- TOP ------->
 
 <div class="top">
+
+<p><img src="https://www.bing.com/th?id=OIP.JuoWSUKqcnNLq29iIWh9sQAAAA&w=282&h=196&c=7&o=5&dpr=2&pid=1.7" class="responsive"></p>
 
 <p><a href="https://news.sky.com/story/asia-bibi-christian-pakistani-woman-accused-of-blasphemy-released-from-prison-11547811" target="_blank"><b>ASIA BIBI RELEASED FROM PRISON; WITH FAMILY IN PAKISTAN UNDER HEAVY SECURITY; EXPECTED TO BE GRANTED ASYLUM IN EUROPE</b></a></p>
 
@@ -227,6 +242,8 @@ mark {
 <p><a href="https://thehill.com/homenews/campaign/415440-midterms-the-winners-and-losers" target="_blank">House Gains 'Squarely in Line With Historic Norms'</a></p>
 
 <p><a href="https://www.axios.com/2018-midterm-elections-political-polarization-trump-c555cb22-9c01-4b90-adef-6a00f1a1974b.html" target="_blank">Shades of 2016 as Poll Predictions Fail</a></p>
+
+<p><a href="https://ijr.com/trailblazing-republican-women-history-tuesday/" target="_blank">Republican women made history...</a></p>
 
 <p><a href="https://www.foxnews.com/politics/dems-to-flex-muscle-with-new-house-majority-subpoenas-investigations-even-possible-impeachment-talks-loom" target="_blank">Dems to flex muscle with new House majority: Subpoenas, investigations, even possible impeachment talks loom...</a></p>
 
