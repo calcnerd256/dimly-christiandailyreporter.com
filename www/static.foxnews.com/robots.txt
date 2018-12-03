@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /static/orion/styles/*
+Allow: /static/orion/scripts/*
+Allow: /static/orion/img/*
+Allow: /.well-known/assetlinks.json
+Disallow: /
