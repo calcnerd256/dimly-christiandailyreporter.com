@@ -86,7 +86,7 @@ a:visited {
 
 .responsive {
     width: 100%;
-    max-width: 400px;
+    max-width: 450px;
     height: auto;
 }
 
@@ -119,9 +119,9 @@ mark {
 
 <div class="top">
 
-<p><img src="https://www.bing.com/th?id=OIP.UCiHTaLQaiZGHb2HrcZT2AHaEL&w=251&h=160&c=7&o=5&dpr=2&pid=1.7" class="responsive"></p>
+<p><img src="https://amp.businessinsider.com/images/5c013d4841cfd8135e6f5f5e-960-610.jpg" class="responsive"></p>
 
-<p><a href="https://www.christianpost.com/news/convicted-child-pornographer-promotes-pedophilia-peer-reviewed-academic-journal.html" target="_blank"><b>HERE WE GO: 'A SEXUAL ORIENTATION LIKE ANY OTHER'</b></a></p>
+<p><a href="https://www.businessinsider.com/facebook-apple-amazon-netflix-google-political-donations-graph-2018-11" target="_blank"><b>FAANG STAFF POLITICAL DONATIONS SINCE 2004: >90% TO DEMS</b></a></p>
 
 </div>
 
@@ -135,6 +135,8 @@ mark {
 <p><img src="https://images.axios.com/tE0YtHos1DVPcFsLZiGzAEd73rc=/0x0:1920x1080/1920x1080/2018/12/09/1544353663715.jpg" width="200"></p>
 
 <p><a href="https://www.axios.com/trump-russia-mueller-investigation-37608752-bef7-4b25-a7dd-89e3032bec7e.html" target="_blank">What we now know about Trump and Russia...</a></p>
+
+<p><a href="https://www.foxnews.com/opinion/andrew-c-mccarthy-why-trump-is-likely-to-be-indicted-by-manhattan-us-attorney" target="_blank">McCarthy: Trump likely to be indicted for violating campaign finance laws</a></p>
 
 <p><a href="https://www.axios.com/paul-manafort-lied-repeatedly-mueller-investigation-c67891d1-5c91-4e2c-b6ae-848894313564.html" target="_blank">Mueller says Manafort lied about contacts with administration officials...</a></p>
 
@@ -176,13 +178,11 @@ mark {
 
 <p><a href="https://www.faithwire.com/2018/12/07/hart-ousted-from-hosting-oscars-over-past-comments-on-homosexuality/" target="_blank">LGBTMOB Clips Kevin Hart...</a></p>
 
+<p><a href="https://www.breitbart.com/entertainment/2018/12/09/nick-cannon-defends-kevin-hart-by-posting-homophobic-tweets-from-chelsea-handler-sarah-silverman-and-amy-schumer/" target="_blank"><em>Nick Cannon Defends By Exposing Old 'Homophobic' Tweets from Handler, Silverman, Schumer</em></a> [language]</p>
+
 <hr>
 
 <p><a href="https://www.lifenews.com/2018/12/07/president-trump-will-name-pro-life-bill-barr-attorney-general-he-strongly-opposes-roe-v-wade/" target="_blank">Trump's new AG Bill Barr has record of opposing Roe v. Wade</a></p>
-
-<hr>
-
-<p><a href="https://www.bloombergquint.com/business/u-s-becomes-a-net-oil-exporter-for-the-first-time-in-75-years" target="_blank">The U.S. Just Became a Net Oil Exporter for the First Time in 75 Years</a></p>
 
 <hr>
 
@@ -195,10 +195,6 @@ mark {
 <hr>
 
 <p><a href="https://world.wng.org/content/starbucks_finally_bans_porn" target="_blank">Starbucks finally bans porn...</a></p>
-
-<hr>
-
-<p><a href="https://www.bbc.com/news/uk-england-essex-46484849" target="_blank">8-year-old boy steers car to safety after mom has seizure, blacks out</a></p>
 
 <hr>
 
@@ -228,6 +224,12 @@ mark {
 
 <hr>
 
+<p><img src="https://www.bing.com/th?id=OIP.UCiHTaLQaiZGHb2HrcZT2AHaEL&w=251&h=160&c=7&o=5&dpr=2&pid=1.7" width="200"></p>
+
+<p><a href="https://www.christianpost.com/news/convicted-child-pornographer-promotes-pedophilia-peer-reviewed-academic-journal.html" target="_blank"><b>HERE WE GO: 'A SEXUAL ORIENTATION LIKE ANY OTHER'...</b></a></p>
+
+<hr>
+
 <p><a href="https://www.christianpost.com/news/christian-teacher-fired-not-using-male-pronouns-female-student-identifies-transgender.html" target="_blank">CHRISTIAN TEACHER FIRED FOR REFUSING TO USE MALE PRONOUNS FOR FEMALE TRANS STUDENT</a></p>
 
 <p><a href="https://www.christianpost.com/news/christian-teacher-fired-not-using-male-pronouns-female-student-identifies-transgender.html" target="_blank"><em>AGREED TO USE HER NEW NAME</em></a></p>
@@ -248,15 +250,11 @@ mark {
 
 <hr>
 
-<p><a href="https://www.ebar.com/news/crime/269118?ch=news&sc=crime&id=269118" target="_blank">Gay San Francisco pastor, activist arrested on child porn charges</a></p>
-
-<p><a href="https://www.christianpost.com/news/megachurch-pastor-fred-herron-enters-rehab-admits-moral-failing-to-his-wife.html" target="_blank">Megachurch Pastor Fred Herron enters rehab, admits 'moral failing' to wife</a></p>
+<p><a href="https://www.bbc.com/news/uk-england-essex-46484849" target="_blank">8-year-old boy steers car to safety after mom has seizure, blacks out</a></p>
 
 <hr>
 
-<p><a href="https://www.msn.com/en-us/news/politics/tucker-carlson-says-trump-is-%E2%80%98not-capable%E2%80%99-and-hasn%E2%80%99t-kept-his-promises/ar-BBQB8Vd?li=BBnb7Kx" target="_blank">Tucker Carlson says Trump is ‘not capable’ and hasn’t kept his promises</a></p>
-
-<p><a href="https://www.foxnews.com/politics/rex-tillerson-claims-he-had-to-constantly-remind-trump-not-to-violate-the-law" target="_blank">Rex Tillerson claims he had to constantly remind Trump not to violate the law</a></p>
+<p><a href="https://www.ebar.com/news/crime/269118?ch=news&sc=crime&id=269118" target="_blank">Gay San Francisco pastor, activist arrested on child porn charges</a></p>
 
 <hr>
 
@@ -266,15 +264,7 @@ mark {
 
 <hr>
 
-<p><a href="https://www.christian.org.uk/news/napalm-girl-those-bombs-led-me-to-christ/" target="_blank">Napalm girl: ‘Those bombs led me to Christ’</a></p>
-
-<hr>
-
 <p><a href="https://thebridgehead.ca/2018/12/07/the-bbc-is-worried-that-tumblrs-new-ban-will-cause-a-porn-shortage/" target="_blank">Not the Bee: BBC is worried that Tumblr’s new ban will cause a porn shortage!</a></p>
-
-<hr>
-
-<p><a href="https://www.foxnews.com/us/nebraska-principal-reportedly-bans-candy-canes-says-j-shape-stands-for-jesus" target="_blank">Nebraska principal bans candy canes, says 'J shape' stands for Jesus</a></p>
 
 <hr>
 
@@ -285,8 +275,6 @@ mark {
 <p><a href="https://www.christianpost.com/news/evangelical-churches-ministry-groups-see-highest-increase-in-giving-since-2014-ecfa-reports.html" target="_blank">Evangelical churches, ministry groups see highest increase in giving since 2014</a></p>
 
 <hr>
-
-<p><img src="https://www.bing.com/th?id=OIP.BQD3EFihZE89DCgk79GeBQHaE8&w=262&h=174&c=7&o=5&pid=1.7" width="200"></p>
 
 <p><a href="https://www.businessinsider.com/jeff-bezos-keeps-talking-about-amazons-inevitable-death-2018-12" target="_blank">'Amazon will go bankrupt': Jeff Bezos keeps talking about Amazon's inevitable death...</a></p>
 
