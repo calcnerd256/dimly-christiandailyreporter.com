@@ -21,8 +21,6 @@ Disallow: /images/search/?
 Disallow: /images/searchbyimage
 Disallow: /local
 Disallow: /maps/adsendpoint
-Disallow: /news/apiclick.aspx
-Disallow: /news/search?
 Disallow: /notifications/
 Disallow: /offers/proxy/dealsserver/api/log
 Disallow: /offers/proxy/dealsserver/buy
