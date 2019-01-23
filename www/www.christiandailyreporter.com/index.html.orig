@@ -96,7 +96,7 @@ a:hover {
 
 .responsive {
     width: 100%;
-    max-width: 350px;
+    max-width: 400px;
     height: auto;
 }
 
@@ -129,11 +129,9 @@ mark {
 
 <div class="top">
 
-<p><img src="https://christiandailyreporter.com/images/che-cortez.jpg" class="responsive"></p>
+<p><img src="https://christiandailyreporter.com/images/cuomo-pp.jpg" class="responsive"></p>
 
-<p><a href="https://dailycaller.com/2019/01/21/ocasio-cortez-millennials-wwii/" target="_blank"><b>There It Is: 'World Going to End in 12 Years' From Climate Change if We Don't Embrace Socialism, AOC Says</b></a></p>
-
-<p><a href="https://news.grabien.com/story-ocasio-cortez-millennials-were-world-going-end-12-years-if-w" target="_blank"><b><em>'And Your Biggest Issue Is How Are We Going to Pay for It?'</em></b></a></p>
+<p><a href="https://www.christiandailyreporter.com/news/new-york-abortion.html" target="_blank"><b>NEW YORK LEGALIZES ABORTION UP TO BIRTH</b></a></p>
 
 </div>
 
