@@ -1,7 +1,7 @@
 # If you are regularly crawling WordPress.com sites, please use our firehose to receive real-time push updates instead.
 # Please see https://developer.wordpress.com/docs/firehose/ for more details.
 
-Sitemap: http://nypost.com/news-sitemap.xml
+Sitemap: https://nypost.com/news-sitemap.xml
 
 User-agent: *
 Disallow: /wp-admin/
@@ -116,10 +116,10 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-# This file was generated on Mon, 01 Apr 2019 18:14:05 +0000
+# This file was generated on Wed, 01 May 2019 18:20:55 +0000
 # Additional sitemaps
-Sitemap: http://nypost.com/sitemap-nypost-section.xml
-Sitemap: http://nypost.com/sitemap-nypost-post_tag.xml
-Sitemap: http://nypost.com/sitemap-nypost-authors.xml
-Sitemap: http://nypost.com/sitemap-nypost-pages.xml
+Sitemap: https://nypost.com/sitemap-nypost-section.xml
+Sitemap: https://nypost.com/sitemap-nypost-post_tag.xml
+Sitemap: https://nypost.com/sitemap-nypost-authors.xml
+Sitemap: https://nypost.com/sitemap-nypost-pages.xml
 
