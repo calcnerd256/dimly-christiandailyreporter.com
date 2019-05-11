@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /graduate
+Sitemap: http://www.cjr.org/sitemap.xml
