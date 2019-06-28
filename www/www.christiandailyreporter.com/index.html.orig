@@ -122,7 +122,15 @@ mark {
 </head>
 
 <body>
+
+<div class="note">
 <center>
+<p>I need help with CDR.</p>
+<p>Are you a news junkie? Do you know HTML? Would you like to work a couple hours per day for a small amount of pay and serve the news to lots of people? Email me: <a href="mailto:adam@christiandailyreporter.com"><u>adam@christiandailyreporter.com</u></a>.</p>
+<p>-Adam</p>
+
+<hr>
+
 
 <p>A CDR newsletter is coming soon 😮</p>
 <p>A concise daily briefing of just what you need, and want, to know, delivered straight to your inbox. Sign up now:</p>
@@ -143,6 +151,8 @@ mark {
 
 <!--End mc_embed_signup-->
 </center>
+</div>
+
 
 <div class="cdr">
 <hr><hr>
