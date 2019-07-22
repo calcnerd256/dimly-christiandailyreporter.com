@@ -10,3 +10,5 @@ You can send me a pull request, which I will likely reject, or you can e-mail me
 The original author of this script can be reached at calcnerd256+dimlysupport@gmail.com
 
 The overarching project is called "Dimly", because it attempts to mirror things.
+
+I've stopped running this, because Adam Ford maintains his own archives now, so there won't be more updates to this repo unless something changes.
